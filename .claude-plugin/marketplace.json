@@ -1,0 +1,27 @@
+{
+  "name": "vortim",
+  "owner": {
+    "name": "Vortim"
+  },
+  "description": "Vortim's Claude Code plugin marketplace.",
+  "plugins": [
+    {
+      "name": "game-sounds",
+      "source": {
+        "source": "github",
+        "repo": "Vortim/game-sounds"
+      },
+      "description": "552 game sound effects for Claude Code — 63 packs: Warcraft, StarCraft, Batman, Matrix, DuckTales, Castlevania, Mega Man, Kirby, Indiana Jones & more!",
+      "version": "3.0.0",
+      "author": {
+        "name": "Citedy",
+        "email": "hello@citedy.com"
+      },
+      "homepage": "https://www.citedy.com",
+      "repository": "https://github.com/Vortim/game-sounds",
+      "license": "MIT",
+      "keywords": ["sound", "audio", "hooks", "notifications", "games", "fun"],
+      "category": "notifications"
+    }
+  ]
+}
